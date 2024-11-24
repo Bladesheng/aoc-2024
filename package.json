@@ -1,0 +1,12 @@
+{
+	"name": "aoc-2024",
+	"type": "module",
+	"scripts": {
+		"dev": "tsx watch src/index.ts"
+	},
+	"devDependencies": {
+		"@types/node": "^22.9.3",
+		"prettier": "^3.3.3",
+		"tsx": "^4.19.2"
+	}
+}

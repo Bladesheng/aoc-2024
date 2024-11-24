@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"composite": true,
+		"noEmit": true,
+		"module": "ESNext",
+		"moduleResolution": "NodeNext",
+		"lib": ["ESNext", "DOM"],
+		"target": "ESNext",
+		"types": ["node"],
+		"strict": true,
+		"skipLibCheck": true,
+		"baseUrl": "."
+	}
+}
