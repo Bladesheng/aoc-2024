@@ -7,6 +7,7 @@ import { day06_part1, day06_part2 } from 'src/day06.js';
 import { day07_part1, day07_part2 } from 'src/day07.js';
 import { day08_part1, day08_part2 } from 'src/day08.js';
 import { day09_part1, day09_part2 } from 'src/day09.js';
+import { day10_part1, day10_part2 } from 'src/day10.js';
 
 // day01_part1();
 // day01_part2();
@@ -32,5 +33,8 @@ import { day09_part1, day09_part2 } from 'src/day09.js';
 // day08_part1();
 // day08_part2();
 
-day09_part1();
-day09_part2();
+// day09_part1();
+// day09_part2();
+
+day10_part1();
+day10_part2();
